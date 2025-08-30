@@ -1,3 +1,10 @@
+body{
+    background-color: #333;
+}
+
+.Header{
+    color: rgb(61, 172, 109);
+}
 
 .Header h1{
     text-decoration: none;
@@ -16,9 +23,10 @@
     width: 500px;
     margin-right: 200px;
     border-style: solid;
-    border-color: black;
+    border-color: #185533;
     border-radius: 10px;
     border-width: 5px;
+    color: #2e8b57;
 }
 
 .Project1 legend{
@@ -30,5 +38,5 @@
 }
 
 .Project1 a{
-    color: black;
+    color: seagreen;
 }
